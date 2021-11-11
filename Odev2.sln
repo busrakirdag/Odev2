@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullaniciAdi", "KullaniciAdi\KullaniciAdi.csproj", "{DF1FECC2-0667-4B40-870C-FA082B683EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciOrtalamasi", "OgrenciOrtalamasi\OgrenciOrtalamasi.csproj", "{7DA3BE13-174C-4B37-BB0A-5F6B95B9F1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1FECC2-0667-4B40-870C-FA082B683EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1FECC2-0667-4B40-870C-FA082B683EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1FECC2-0667-4B40-870C-FA082B683EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1FECC2-0667-4B40-870C-FA082B683EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA3BE13-174C-4B37-BB0A-5F6B95B9F1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA3BE13-174C-4B37-BB0A-5F6B95B9F1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA3BE13-174C-4B37-BB0A-5F6B95B9F1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA3BE13-174C-4B37-BB0A-5F6B95B9F1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74753B70-8050-4C5F-8C6A-F239BDC83F47}
+	EndGlobalSection
+EndGlobal
